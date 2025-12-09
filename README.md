@@ -9,7 +9,7 @@ apk add py3-pip
 
 pip install requests
 
-git clone https:
+git clone https://github.com/W1160342934-png/YDD-.git
 
 cd cpm
 
